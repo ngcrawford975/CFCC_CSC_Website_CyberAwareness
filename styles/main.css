@@ -46,3 +46,17 @@ section p {
   margin: 0 auto;
   color: #d0d0d0;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+#side-nav a {
+    color: #0d6efd;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+#side-nav a:hover {
+    text-decoration: underline;
+}
