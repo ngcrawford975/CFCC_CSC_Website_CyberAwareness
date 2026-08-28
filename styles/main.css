@@ -60,3 +60,12 @@ html {
 #side-nav a:hover {
     text-decoration: underline;
 }
+
+body {
+    background-image: url("media/web_backdrop.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
