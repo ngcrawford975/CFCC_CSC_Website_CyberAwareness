@@ -62,7 +62,7 @@ html {
 }
 
 body {
-    background-image: url("CFCC_CSC_Website_CyberAwareness/media/web_backdrop.jpg");
+    background-image: url("../media/web_backdrop.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
